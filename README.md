@@ -1,7 +1,7 @@
 Hello All,
 
 1. This is a simple demonstration of server client communication (Chatbot).
-2. The server can manage at max 2 clients(I have put the limit for 2)
+2. The server can manage multiple clients ( Concurrent server using thread concepts )
 3. Server is able to communicate with the individual clients independently.
 4. This server needs to be handled by a person to give the response for the client's query.
 
